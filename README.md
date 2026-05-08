@@ -3,10 +3,10 @@
 - 💡 Em transição para Tech — aprendendo, praticando e crescendo todos os dias.
 - 🌱 Estou estudando  e desenvolvendo minhas habilidades em programação.
 - 🤝 Estou aberta a colaborar em projetos que contribuam para meu crescimento.
-- 🤔 Estou procurando ajuda com programação
+- 🤔 Estou procurando ajuda com programação.
 - 💬 Pergunte-me sobre minha transição de carreira.
-- ⚡ Curiosidade: Estou começando do Zero e adoro aprender algo novo todos os dias
--->
+- ⚡ Curiosidade: Estou começando do Zero e adoro aprender algo novo todos os dias.
+
 
 ##
 
